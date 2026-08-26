@@ -2,8 +2,46 @@ body{
     text-align: center;
     background-color: bisque;
     
+    
 }
 
  header{
-    background-color: rgb(112, 60, 0);
+    background-color: rgb(163, 108, 44);
+      border: 1px solid black;
+       border-radius: 30px;
+       
  }
+ footer{
+    background-color: rgb(163, 108, 44);
+   border: 1px solid black;
+   border-radius: 30px;
+   
+ }
+
+ main{
+    padding-top: 100px;
+  
+   padding-bottom: 150px;
+
+ }
+ 
+.portfolio-card {
+    display: block;
+    width: 150px; /* Largura do quadrado */
+    height: 35px; /* Altura igual à largura para formar o quadrado */
+    margin: auto; /* Centraliza na tela */
+    border: 3px solid black; /* Borda preta que você pediu */
+    border-radius: 30px; /* Arredonda as pontas */
+    overflow: hidden; /* Esconde o que passar da borda arredondada */
+}
+ hr{
+
+    color: rgb(0, 0, 0);
+      font-size: 30px;/* font-size serve para dar espaço entre o <hr> */
+    
+      height: 5px; /* Altere este valor para definir a grossura */
+    background-color: black;
+      
+ }
+ 
+ 
