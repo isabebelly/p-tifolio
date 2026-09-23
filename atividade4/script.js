@@ -1,3 +1,4 @@
+
 function parouimpar(){
     let numero;
     let resultado;
