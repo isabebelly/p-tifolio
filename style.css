@@ -63,3 +63,7 @@ body{
     background-color: rgb(153, 87, 24);
     transform: scale(1.2);
  }
+ .akinator{
+    width: 250px;
+    background-color: rgb(170, 108, 28);
+ }

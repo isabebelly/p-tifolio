@@ -23,5 +23,4 @@ function sorte(){
                             <p> Azar: ${cont_azar}</p>
                             <img src ="azar.png"><img>`;
     }
-
 }
