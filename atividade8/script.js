@@ -1,4 +1,4 @@
-    let cont_sorte = 0;
+let cont_sorte = 0;
     let cont_azar = 0;
 
 function sorte(){
